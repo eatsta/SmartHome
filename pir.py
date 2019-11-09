@@ -6,7 +6,7 @@ from time import sleep
 test = "someone is in HOME!"
 
 
-localhost = "3.121.31.186"
+localhost = "3.121.31.186"   #hansa server
 port = 1883
 timeout = 60
 topic = "/ALARM/ALARM"
